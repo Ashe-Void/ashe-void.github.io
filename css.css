@@ -1,14 +1,9 @@
-html{
-    
-}
-body{
-
-}
-
 #urls-holder{
-    height: 1vh;
+    height: auto;
+    width:auto;
     border: 1px black solid
 }
 .link{
-    
+    font-size: medium;
+    color: black
 }
